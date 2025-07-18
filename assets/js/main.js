@@ -446,9 +446,7 @@
             }
         },
     }
-    $(document).ready(function() {
-        doobJs.i();
-    });
+    doobJs.i();
 
 })(window, document, jQuery)
 
